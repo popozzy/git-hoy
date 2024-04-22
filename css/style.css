@@ -1,0 +1,58 @@
+
+h1 {text-align: center;
+    color: blueviolet;
+    font-size: 90px;
+    background-color: blanchedalmond;
+    }
+
+header h2 {color: crimson;
+    text-align: center;
+    font-size: 100px;
+    }
+
+h3 {color:darkmagenta;
+    text-align: center;
+    }
+
+em {color: crimson;
+text-align: left;
+    }
+
+.imagenes { width: 200px; height: 200px;
+            border-radius: 30%;
+            position: relative;
+            left: 30%;
+            right: 30%;
+            }
+            
+.logo {width: 130px; height: 130px;
+    border-radius: 30%;
+           }
+
+header div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.otono {width: 130px; height: 130px;
+    border-radius: 30%;
+        }
+
+
+main nav {
+    display: flex;
+}        
+main nav img{
+    align-items: center;
+    justify-content: center;
+    display:block;
+    margin: 30px 30px;
+    padding: 30px 30px;
+    display: flex;
+            }
+
+main .precios span {
+    display: block;
+}
+
